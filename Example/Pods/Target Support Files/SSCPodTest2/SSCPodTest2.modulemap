@@ -1,0 +1,6 @@
+framework module SSCPodTest2 {
+  umbrella header "SSCPodTest2-umbrella.h"
+
+  export *
+  module * { export * }
+}

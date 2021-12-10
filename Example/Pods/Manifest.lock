@@ -1,0 +1,16 @@
+PODS:
+  - SSCPodTest2 (0.1.0)
+
+DEPENDENCIES:
+  - SSCPodTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  SSCPodTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSCPodTest2: f48ec6eecf5747d90a5cd664ec69334d68b4e2a6
+
+PODFILE CHECKSUM: 899e2b521287d6ce2910f6459b4e9e02af39a266
+
+COCOAPODS: 1.8.4
