@@ -1,5 +1,5 @@
 PODS:
-  - SSCPodTest2 (0.1.0)
+  - SSCPodTest2 (1.0.0)
 
 DEPENDENCIES:
   - SSCPodTest2 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SSCPodTest2: f48ec6eecf5747d90a5cd664ec69334d68b4e2a6
+  SSCPodTest2: 69af892fcf92d23b880c18a99daea21cba07c63a
 
 PODFILE CHECKSUM: 899e2b521287d6ce2910f6459b4e9e02af39a266
 
