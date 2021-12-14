@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SSCPodTest2'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'Just Testing.'
 
 # This description is used to generate tags and improve search results.
