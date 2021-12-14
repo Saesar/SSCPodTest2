@@ -20,4 +20,9 @@
     NSLog(@"sayGodBye");
     NSLog(@"sdasd");
 }
+
+- (void)haha
+{
+    NSLog(@"hahah");
+}
 @end
