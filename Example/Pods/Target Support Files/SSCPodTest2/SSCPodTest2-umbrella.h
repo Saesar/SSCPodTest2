@@ -11,6 +11,7 @@
 #endif
 
 #import "PrintHello.h"
+#import "Tools.h"
 
 FOUNDATION_EXPORT double SSCPodTest2VersionNumber;
 FOUNDATION_EXPORT const unsigned char SSCPodTest2VersionString[];
